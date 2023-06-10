@@ -70,7 +70,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]( https://vikas924.github.io/awesomebookses6/)
+- [Live Demo Link](https://vikas924.github.io/awesomebookes6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -173,7 +173,7 @@ GitHub Pages
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues](https://github.com/vikas924/Awesome-books/issues) page.
+Feel free to check the [issues](https://github.com/vikas924/Awesome-book/issues) page.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
