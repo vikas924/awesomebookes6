@@ -70,7 +70,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]( https://vikas924.github.io/awesomebookes6/)
+- [Live Demo Link](https://vikas924.github.io/awesomebookes6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
