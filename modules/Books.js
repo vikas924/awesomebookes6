@@ -40,6 +40,7 @@ export default class Books {
         const button = document.querySelectorAll('#button');
         button[i].addEventListener('click', Books.remove);
       }
+      localStorage.setItem('array', JSON.stringify(booklist));
       Books.style();
     }
 
@@ -54,6 +55,7 @@ export default class Books {
         const button = document.querySelectorAll('#button');
         button[i].addEventListener('click', Books.remove);
       }
+      localStorage.setItem('array', JSON.stringify(booklist));
       Books.style();
     }
 
